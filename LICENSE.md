@@ -1,7 +1,13 @@
-## LICENSE
-We, we, Us, us, US and WE refer to Carroted, throughout this entire license, including the "Why" section.
+# THE CARROTED LICENSE
+Version 1.1 by Carroted
+
+## DEFINITIONS
+We, we, Us, us, US, Carroted, CARROTED and WE refer to Carroted, throughout this entire file or document, including the "Why" section.
 
 You, you and YOU refer to you or a group that you represent.
+
+## LICENSE
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THIS PROJECT AND SOFTWARE ARE PROVIDED "AS IS" AND WITHOUT WARRANTIES, REPRESENTATIONS OR CONDITIONS OF ANY KIND, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTIES, REPRESENTATIONS AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. CARROTED DOES NOT WARRANT AND NOTHING IN THIS LICENSE IMPLIES ANY WARRANTY THAT THE OPERATION OF SOFTWARE AND/OR HARDWARE WILL BE UNINTERRUPTED OR ERROR FREE, OR THAT ANY ERRORS FOUND WILL BE CORRECTED.
 
 If you do not agree to this license, you may not interact with the project.
 If anyone else, or anything else does not agree to the license, they may also not interact with the project.
