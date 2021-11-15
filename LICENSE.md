@@ -1,5 +1,5 @@
 # THE CARROTED LICENSE
-Version 1.1 by Carroted
+Version 1.3 by Carroted
 
 ## DEFINITIONS
 We, we, Us, us, US, Carroted, CARROTED and WE refer to Carroted, throughout this entire file or document, including the "Why" section.
@@ -23,11 +23,7 @@ By agreeing to the license, you agree to the following points, and are legally b
     distribute builds, paid or unpaid.
     
 2. You may learn from the source of the game, but **do not outright
-    copy our scripts and call it a different game**. To make that more
-    precise, just don't use more than 50% of the scripts we (Carroted)
-    made for this game in a single project other than personal versions
-    of the game or a download of the project to modify scripts and
-    test/build.
+    copy our scripts and call it a different game**. Don't use the same Scenes or similar Scenes in anything other than personal versions of the game or a download of the project to modify scripts and test, and make changes to submit to THIS repository.
     
 3. We may modify this license at any time. If we do, previous versions
     of the game are unaffected by the license change, only future ones.
