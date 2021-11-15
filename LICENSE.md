@@ -9,7 +9,7 @@ You, you and YOU refer to you or a group that you represent.
 ## LICENSE
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THIS PROJECT AND SOFTWARE ARE PROVIDED "AS IS" AND WITHOUT WARRANTIES, REPRESENTATIONS OR CONDITIONS OF ANY KIND, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTIES, REPRESENTATIONS AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. CARROTED DOES NOT WARRANT AND NOTHING IN THIS LICENSE IMPLIES ANY WARRANTY THAT THE OPERATION OF SOFTWARE AND/OR HARDWARE WILL BE UNINTERRUPTED OR ERROR FREE, OR THAT ANY ERRORS FOUND WILL BE CORRECTED.
 
-If you do not agree to this license, you may not interact with the project.
+If you do not agree to this license, you may not interact with the project. You may not download the project and/or clone the project.
 If anyone else, or anything else does not agree to the license, they may also not interact with the project.
 
 By agreeing to the license, you agree to the following points, and are legally bound to follow them:
